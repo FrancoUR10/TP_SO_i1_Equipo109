@@ -18,3 +18,26 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 Fri Jun  2 10:19:42 AM EDT 2023
+
+Canelas Tomas
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.254  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:2161:e000:42d:310a:e69d:e4c7:8787  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::568e:76e0:89b7:b096  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:2161:e000:42d::7427  prefixlen 128  scopeid 0x0<global>
+        ether 08:00:27:c7:e1:36  txqueuelen 1000  (Ethernet)
+        RX packets 4056  bytes 4681303 (4.4 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2517  bytes 338064 (330.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4  bytes 240 (240.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4  bytes 240 (240.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Fri Jun  2 11:51:46 AM EDT 2023
