@@ -1,0 +1,6 @@
+ALFA: Acquisto Franco
+BETA: San Sebastian Julian
+GAMMA: Canelas Tomas Salvador
+
+a- Sí, puedo ver los cambios realizados por los demas en mi repositorio.
+b- Si agrego un archivo los demas integrantes pueden verlo cuando ellos actualizan su repositorio local.
