@@ -6,3 +6,4 @@ a- Sí, puedo ver los cambios realizados por los demas en mi repositorio.
 b- Si agrego un archivo los demas integrantes pueden verlo cuando ellos actualizan su repositorio local.
 c- Si, todos los contribuidores pueden ver los cambios que realizan los demas.
 d- Nos comunicamos mediante discord
+e- La mejor manera de cominucarnos dentro de GitHub es con commits y mediante el project
